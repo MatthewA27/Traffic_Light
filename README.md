@@ -16,3 +16,4 @@
 - Countdown timer
 - Night mode
 
+<img src="Traffic_Light_Circuit.jpg" alt="Image of Physical Circuit">
